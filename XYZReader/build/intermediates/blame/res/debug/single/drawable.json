@@ -96,11 +96,11 @@
         "source": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
         "source": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
     }
 ]
