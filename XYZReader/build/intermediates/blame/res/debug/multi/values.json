@@ -3336,13 +3336,13 @@
                     "endOffset": 33720
                 },
                 "from": {
-                    "file": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml",
+                    "file": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.1/res/values/values.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 5991,
+                        "startOffset": 1829,
                         "endColumn": 44,
-                        "endOffset": 6031
+                        "endOffset": 1869
                     }
                 }
             },
@@ -3355,13 +3355,13 @@
                     "endOffset": 33767
                 },
                 "from": {
-                    "file": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml",
+                    "file": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.1/res/values/values.xml",
                     "position": {
-                        "startLine": 33,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 6036,
+                        "startOffset": 1874,
                         "endColumn": 46,
-                        "endOffset": 6078
+                        "endOffset": 1916
                     }
                 }
             },

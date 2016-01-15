@@ -278,7 +278,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int borderWidth=0x7f010058;
+        public static final int borderWidth=0x7f010051;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -790,7 +790,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
          */
-        public static final int fabSize=0x7f010056;
+        public static final int fabSize=0x7f01004f;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -845,7 +845,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int fab_colorDisabled=0x7f01004f;
+        public static final int fab_colorDisabled=0x7f010053;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -854,7 +854,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int fab_colorNormal=0x7f010050;
+        public static final int fab_colorNormal=0x7f010054;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -863,7 +863,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int fab_colorPressed=0x7f01004e;
+        public static final int fab_colorPressed=0x7f010052;
         /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
@@ -880,7 +880,7 @@ containing a value of this type.
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int fab_icon=0x7f010051;
+        public static final int fab_icon=0x7f010055;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -915,7 +915,7 @@ containing a value of this type.
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
          */
-        public static final int fab_size=0x7f010052;
+        public static final int fab_size=0x7f010056;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -923,7 +923,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int fab_stroke_visible=0x7f010054;
+        public static final int fab_stroke_visible=0x7f010058;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -931,7 +931,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int fab_title=0x7f010053;
+        public static final int fab_title=0x7f010057;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1367,7 +1367,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int pressedTranslationZ=0x7f010057;
+        public static final int pressedTranslationZ=0x7f010050;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -1414,7 +1414,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int rippleColor=0x7f010055;
+        public static final int rippleColor=0x7f01004e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
@@ -2295,7 +2295,7 @@ containing a value of this type.
         public static final int detail_body_line_spacing_multiplier=0x7f0b0000;
     }
     public static final class id {
-        public static final int action0=0x7f0d007e;
+        public static final int action0=0x7f0d007d;
         public static final int action_bar=0x7f0d005a;
         public static final int action_bar_activity_content=0x7f0d0000;
         public static final int action_bar_container=0x7f0d0059;
@@ -2304,7 +2304,7 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f0d003e;
         public static final int action_bar_title=0x7f0d003d;
         public static final int action_context_bar=0x7f0d005b;
-        public static final int action_divider=0x7f0d0082;
+        public static final int action_divider=0x7f0d0081;
         public static final int action_menu_divider=0x7f0d0002;
         public static final int action_menu_presenter=0x7f0d0003;
         public static final int action_mode_bar=0x7f0d0057;
@@ -2314,19 +2314,19 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f0d0040;
         public static final int alertTitle=0x7f0d004a;
         public static final int always=0x7f0d002e;
-        public static final int article_body=0x7f0d0078;
-        public static final int article_byline=0x7f0d0077;
-        public static final int article_subtitle=0x7f0d007d;
-        public static final int article_title=0x7f0d0076;
+        public static final int article_body=0x7f0d0077;
+        public static final int article_byline=0x7f0d0076;
+        public static final int article_subtitle=0x7f0d007c;
+        public static final int article_title=0x7f0d0075;
         public static final int beginning=0x7f0d002c;
         public static final int bottom=0x7f0d001c;
         public static final int buttonPanel=0x7f0d0050;
-        public static final int cancel_action=0x7f0d007f;
+        public static final int cancel_action=0x7f0d007e;
         public static final int center=0x7f0d001d;
         public static final int center_horizontal=0x7f0d001e;
         public static final int center_vertical=0x7f0d001f;
         public static final int checkbox=0x7f0d0052;
-        public static final int chronometer=0x7f0d0085;
+        public static final int chronometer=0x7f0d0084;
         public static final int clip_horizontal=0x7f0d0020;
         public static final int clip_vertical=0x7f0d0021;
         public static final int collapseActionView=0x7f0d002f;
@@ -2338,17 +2338,16 @@ containing a value of this type.
         public static final int dialog=0x7f0d0033;
         public static final int disableHome=0x7f0d000f;
         public static final int down=0x7f0d002b;
-        public static final int draw_insets_frame_layout=0x7f0d0071;
+        public static final int draw_insets_frame_layout=0x7f0d0070;
         public static final int dropdown=0x7f0d0034;
         public static final int edit_query=0x7f0d005c;
         public static final int end=0x7f0d0022;
-        public static final int end_padder=0x7f0d008a;
+        public static final int end_padder=0x7f0d0089;
         public static final int enterAlways=0x7f0d0016;
         public static final int enterAlwaysCollapsed=0x7f0d0017;
         public static final int exitUntilCollapsed=0x7f0d0018;
         public static final int expand_activities_button=0x7f0d0041;
         public static final int expanded_menu=0x7f0d0051;
-        public static final int fab=0x7f0d0070;
         public static final int fab_expand_menu_button=0x7f0d0004;
         public static final int fab_label=0x7f0d0005;
         public static final int fill=0x7f0d0023;
@@ -2360,14 +2359,14 @@ containing a value of this type.
         public static final int icon=0x7f0d0045;
         public static final int ifRoom=0x7f0d0030;
         public static final int image=0x7f0d0042;
-        public static final int info=0x7f0d0089;
+        public static final int info=0x7f0d0088;
         public static final int left=0x7f0d0026;
-        public static final int line1=0x7f0d0083;
-        public static final int line3=0x7f0d0087;
+        public static final int line1=0x7f0d0082;
+        public static final int line3=0x7f0d0086;
         public static final int listMode=0x7f0d000c;
         public static final int list_item=0x7f0d0044;
-        public static final int media_actions=0x7f0d0081;
-        public static final int meta_bar=0x7f0d0075;
+        public static final int media_actions=0x7f0d0080;
+        public static final int meta_bar=0x7f0d0074;
         public static final int middle=0x7f0d002d;
         public static final int mini=0x7f0d002a;
         public static final int multiply=0x7f0d0038;
@@ -2377,20 +2376,20 @@ containing a value of this type.
         public static final int pager=0x7f0d0069;
         public static final int parallax=0x7f0d001a;
         public static final int parentPanel=0x7f0d0047;
-        public static final int photo=0x7f0d0074;
-        public static final int photo_container=0x7f0d0073;
+        public static final int photo=0x7f0d0073;
+        public static final int photo_container=0x7f0d0072;
         public static final int pin=0x7f0d001b;
         public static final int progress_circular=0x7f0d0007;
         public static final int progress_horizontal=0x7f0d0008;
         public static final int radio=0x7f0d0054;
         public static final int recycler_view=0x7f0d006d;
-        public static final int refresh=0x7f0d008b;
+        public static final int refresh=0x7f0d008a;
         public static final int right=0x7f0d0027;
         public static final int screen=0x7f0d0039;
         public static final int scroll=0x7f0d0019;
         public static final int scrollView=0x7f0d004c;
         public static final int scrollable=0x7f0d0036;
-        public static final int scrollview=0x7f0d0072;
+        public static final int scrollview=0x7f0d0071;
         public static final int search_badge=0x7f0d005e;
         public static final int search_bar=0x7f0d005d;
         public static final int search_button=0x7f0d005f;
@@ -2402,27 +2401,27 @@ containing a value of this type.
         public static final int search_src_text=0x7f0d0063;
         public static final int search_voice_btn=0x7f0d0067;
         public static final int select_dialog_listview=0x7f0d0068;
-        public static final int share_fab=0x7f0d0079;
+        public static final int share_fab=0x7f0d0078;
         public static final int shortcut=0x7f0d0053;
         public static final int showCustom=0x7f0d0012;
         public static final int showHome=0x7f0d0013;
         public static final int showTitle=0x7f0d0014;
-        public static final int snackbar_action=0x7f0d007b;
-        public static final int snackbar_text=0x7f0d007a;
+        public static final int snackbar_action=0x7f0d007a;
+        public static final int snackbar_text=0x7f0d0079;
         public static final int split_action_bar=0x7f0d0009;
         public static final int src_atop=0x7f0d003a;
         public static final int src_in=0x7f0d003b;
         public static final int src_over=0x7f0d003c;
         public static final int start=0x7f0d0028;
-        public static final int status_bar_latest_event_content=0x7f0d0080;
+        public static final int status_bar_latest_event_content=0x7f0d007f;
         public static final int submit_area=0x7f0d0065;
         public static final int swipe_refresh_layout=0x7f0d006c;
         public static final int tabMode=0x7f0d000e;
-        public static final int text=0x7f0d0088;
-        public static final int text2=0x7f0d0086;
+        public static final int text=0x7f0d0087;
+        public static final int text2=0x7f0d0085;
         public static final int textSpacerNoButtons=0x7f0d004d;
-        public static final int thumbnail=0x7f0d007c;
-        public static final int time=0x7f0d0084;
+        public static final int thumbnail=0x7f0d007b;
+        public static final int time=0x7f0d0083;
         public static final int title=0x7f0d0046;
         public static final int title_template=0x7f0d0049;
         public static final int toolbar=0x7f0d006f;
@@ -4499,7 +4498,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.xyzreader:borderWidth
         */
-        public static final int FloatingActionButton_borderWidth = 12;
+        public static final int FloatingActionButton_borderWidth = 5;
         /**
           <p>This symbol is the offset where the {@link com.example.xyzreader.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
@@ -4532,7 +4531,7 @@ containing a value of this type.
 </table>
           @attr name com.example.xyzreader:fabSize
         */
-        public static final int FloatingActionButton_fabSize = 10;
+        public static final int FloatingActionButton_fabSize = 3;
         /**
           <p>This symbol is the offset where the {@link com.example.xyzreader.R.attr#fab_colorDisabled}
           attribute's value can be found in the {@link #FloatingActionButton} array.
@@ -4547,7 +4546,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.xyzreader:fab_colorDisabled
         */
-        public static final int FloatingActionButton_fab_colorDisabled = 3;
+        public static final int FloatingActionButton_fab_colorDisabled = 7;
         /**
           <p>This symbol is the offset where the {@link com.example.xyzreader.R.attr#fab_colorNormal}
           attribute's value can be found in the {@link #FloatingActionButton} array.
@@ -4562,7 +4561,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.xyzreader:fab_colorNormal
         */
-        public static final int FloatingActionButton_fab_colorNormal = 4;
+        public static final int FloatingActionButton_fab_colorNormal = 8;
         /**
           <p>This symbol is the offset where the {@link com.example.xyzreader.R.attr#fab_colorPressed}
           attribute's value can be found in the {@link #FloatingActionButton} array.
@@ -4577,7 +4576,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.xyzreader:fab_colorPressed
         */
-        public static final int FloatingActionButton_fab_colorPressed = 2;
+        public static final int FloatingActionButton_fab_colorPressed = 6;
         /**
           <p>This symbol is the offset where the {@link com.example.xyzreader.R.attr#fab_icon}
           attribute's value can be found in the {@link #FloatingActionButton} array.
@@ -4587,7 +4586,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name com.example.xyzreader:fab_icon
         */
-        public static final int FloatingActionButton_fab_icon = 5;
+        public static final int FloatingActionButton_fab_icon = 9;
         /**
           <p>This symbol is the offset where the {@link com.example.xyzreader.R.attr#fab_size}
           attribute's value can be found in the {@link #FloatingActionButton} array.
@@ -4604,7 +4603,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 </table>
           @attr name com.example.xyzreader:fab_size
         */
-        public static final int FloatingActionButton_fab_size = 6;
+        public static final int FloatingActionButton_fab_size = 10;
         /**
           <p>This symbol is the offset where the {@link com.example.xyzreader.R.attr#fab_stroke_visible}
           attribute's value can be found in the {@link #FloatingActionButton} array.
@@ -4618,7 +4617,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.xyzreader:fab_stroke_visible
         */
-        public static final int FloatingActionButton_fab_stroke_visible = 8;
+        public static final int FloatingActionButton_fab_stroke_visible = 12;
         /**
           <p>This symbol is the offset where the {@link com.example.xyzreader.R.attr#fab_title}
           attribute's value can be found in the {@link #FloatingActionButton} array.
@@ -4632,7 +4631,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.xyzreader:fab_title
         */
-        public static final int FloatingActionButton_fab_title = 7;
+        public static final int FloatingActionButton_fab_title = 11;
         /**
           <p>This symbol is the offset where the {@link com.example.xyzreader.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
@@ -4648,7 +4647,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.xyzreader:pressedTranslationZ
         */
-        public static final int FloatingActionButton_pressedTranslationZ = 11;
+        public static final int FloatingActionButton_pressedTranslationZ = 4;
         /**
           <p>This symbol is the offset where the {@link com.example.xyzreader.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
@@ -4663,7 +4662,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.example.xyzreader:rippleColor
         */
-        public static final int FloatingActionButton_rippleColor = 9;
+        public static final int FloatingActionButton_rippleColor = 2;
         /** Attributes that can be used with a FloatingActionsMenu.
            <p>Includes the following attributes:</p>
            <table>
