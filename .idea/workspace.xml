@@ -103,8 +103,8 @@
       <file leaf-file-name="add_fab_background.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/drawable/add_fab_background.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40350878">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0877193">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -1671,8 +1671,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1072" />
-    <option name="y" value="23" />
+    <option name="x" value="237" />
+    <option name="y" value="87" />
     <option name="width" value="1486" />
     <option name="height" value="1296" />
   </component>
@@ -2113,7 +2113,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1072" y="23" width="1486" height="1296" extended-state="0" />
+    <frame x="237" y="87" width="1486" height="1296" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2575,8 +2575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/drawable/add_fab_background.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40350878">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0877193">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding />
         </state>
       </provider>
