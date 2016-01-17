@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
         "source": "/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/src/main/res/mipmap-mdpi/ic_launcher.png"
     }

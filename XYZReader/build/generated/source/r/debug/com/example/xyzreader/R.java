@@ -2767,9 +2767,6 @@ containing a value of this type.
         public static final int Theme_AppCompat_NoActionBar=0x7f0800e8;
         public static final int Theme_Bacon=0x7f0800e9;
         public static final int Theme_Bacon_Detail=0x7f0800ea;
-        /**  You can also set colorControlNormal, colorControlActivated
-             colorControlHighlight, and colorSwitchThumbNormal. 
-         */
         public static final int Theme_MyTheme=0x7f0800eb;
         public static final int ThemeOverlay_AppCompat=0x7f0800ec;
         public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0800ed;
