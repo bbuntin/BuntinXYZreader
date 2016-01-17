@@ -2,95 +2,95 @@
 <items version="2" >
 
     <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_429060f4e233c0ceb68a24efe30a5f6527a5dd7b.jar" />
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_811b421815f8159f3406a39935d67cdc7e66e0b5.jar" />
     </item>
     <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/volley_57673c510c83421fd7c1b24db89f651e7f175498.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_8885264c705b8b613a025e209ec54d41c830794b.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_48d110e3797c8afc9833540de010bd69a325f998.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_4df643b1130bb6cd1d4abd402d0ceea84ae79f02.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_ef8acaa1e5b6b3fcf72fdfe70a29773d05893666.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.0.0_b142a1789d6b11cbb8646f255f5d80438ccbd82c.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_2ec9289b65dd0f33adda3a37b8fb4899fd5cb666.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0_121e558a83ddf88553cb1a834c024ff1586e442e.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_2226daf54242a183d439e8e74da4975c1378ccbb.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_ad3a29918f3ef61ea83435a07972f8afaa75c004.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.0.0_1e3476afdcf9280e6727b9790a98e7d842411a67.jar" />
-    </item>
-    <item
-        jar="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.1/jars/classes.jar"
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.1/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="d4b681a6084ef53d2825520fc77fcaddde351f64">
-        <dex dex="/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.getbase-floatingactionbutton-1.9.1_5e379ac1cbd6b433c89d9791640a1c45dddd3f65.jar" />
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.getbase-floatingactionbutton-1.9.1_1400e659218c5eeb73a86cb6d7b747f123833eac.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/volley_7c86f2c268044eef3cce884260484f8d4f1d00e5.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_c2f0c519605c4ed3d1db4ddc40838f413b284aa6.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_3f6d94944448be5a521be5d434287f8dd29f7d80.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.0.0_5c7f8d82f5b1f48aff24722be45c8296559cd114.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_f7666444e26b90c6d704f87825f23d14733459bb.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0_c6215f1fe91db22f7038149a65d94aa6bc192757.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_bb702dcb2140ef07a8a80f45d5105c06256554c4.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_0b5c72f0543473d45f7c0035ace2440c6d8dabf5.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.0.0_754607d4969dc4da4e633c974b82d34089dafb72.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_50fb2a150717d3b6de61d601b7bc0f757d7bb149.jar" />
+    </item>
+    <item
+        jar="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/bradleybuntin/version-control/BuntinXYZreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_70ec30769007dab86a1c965a4765571ae595e630.jar" />
     </item>
 
 </items>
