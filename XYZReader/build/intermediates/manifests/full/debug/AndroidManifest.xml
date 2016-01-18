@@ -20,7 +20,7 @@
         android:theme="@style/Theme.MyTheme" >
         <activity
             android:name="com.example.xyzreader.ui.ArticleDetailActivity"
-            android:parentActivityName="com.example.xyzreader.ui.ArticleListActivity" >
+            android:parentActivityName="com.example.xyzreader.ui.CoordinatorActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
 
@@ -31,7 +31,7 @@
 
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".ui.ArticleListActivity" />
+                android:value=".ui.CoordinatorActivity" />
         </activity>
 
         <service
@@ -51,10 +51,6 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name="com.example.xyzreader.ui.ArticleListActivity"
-            android:label="@string/app_name" >
         </activity>
         <activity
             android:name="android.support.v7.widget.TestActivity"

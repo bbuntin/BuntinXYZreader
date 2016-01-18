@@ -190,9 +190,5 @@
     {
         "merged": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/res/merged/debug/layout/layout_snackbar.xml",
         "source": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/layout_snackbar.xml"
-    },
-    {
-        "merged": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_list.xml",
-        "source": "/Users/Bradley/version-control/BuntinXYZreader/XYZReader/src/main/res/layout/activity_article_list.xml"
     }
 ]
