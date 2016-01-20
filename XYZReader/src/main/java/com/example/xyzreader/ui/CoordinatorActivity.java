@@ -8,7 +8,6 @@ import android.content.IntentFilter;
 import android.content.Loader;
 import android.database.Cursor;
 import android.os.Bundle;
-import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.RecyclerView;
@@ -43,15 +42,13 @@ public class CoordinatorActivity extends ActionBarActivity implements
         setContentView(R.layout.activity_coordinator);
 
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
-
-        CollapsingToolbarLayout collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.collapsing_toolbar);
-        collapsingToolbarLayout.setTitle("XYZ Reader");
-        collapsingToolbarLayout.setExpandedTitleColor(getResources().getColor(android.R.color.white));
-        collapsingToolbarLayout.setCollapsedTitleTextColor(getResources().getColor(android.R.color.white));
-
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
-
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
+
+       // mSwipeRefreshLayout.setColorSchemeColors(getResources().getColor(R.color.accent));
+
+        setSupportActionBar(mToolbar);
+
         getLoaderManager().initLoader(0, null, this);
 
         if (savedInstanceState == null) {
